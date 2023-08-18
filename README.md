@@ -21,3 +21,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Resources
+Instructional context was gathered from https://bootcampspot.instructure.com/courses/4010/assignments/59469?module_item_id=1040233. 
+Additional explanation references were gathered from https://developer.mozilla.org/en-US/. 
