@@ -138,7 +138,9 @@ p {
     font-size: 36px;
 }
 
+/* Hide footer using display: none; */
 .footer {
+    display: none;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
