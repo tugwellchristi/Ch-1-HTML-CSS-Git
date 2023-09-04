@@ -22,6 +22,18 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Link to Deployed Site
+http://127.0.0.1:5501/index.html
+
+## Screenshots from Deployed Website
+Top section of deployed page. 
+![Top_Section](https://github.com/tugwellchristi/Ch-1-HTML-CSS-Git/assets/90078824/82b04b92-a0eb-4bb8-82e7-8942c5b28fbb)
+
+
+Content section of deployed page. 
+![Content_Section](https://github.com/tugwellchristi/Ch-1-HTML-CSS-Git/assets/90078824/63a1d51a-a99c-4a22-b90e-c82434f4acc8)
+
+
 ## Resources
 Instructional context was gathered from https://bootcampspot.instructure.com/courses/4010/assignments/59469?module_item_id=1040233. 
 Additional explanation references were gathered from https://developer.mozilla.org/en-US/. 
