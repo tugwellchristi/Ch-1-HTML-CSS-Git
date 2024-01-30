@@ -1,4 +1,4 @@
-# Front End Code Refactor
+# Horiseon Website Update
 
 ## Project Description
 This project focuses on the marketing agency, Horiseon, website, taking existing front end code and refactoring it to be more accessible and inclusive for all users, accommodating the needs of certain disabilities and the use of assistive technologies, such as video captions, screen readers, and braille keyboards. The reworked code includes more semantic HTML elements, provides better ease of navigation, and makes it a more optimal tool for search engines. 
