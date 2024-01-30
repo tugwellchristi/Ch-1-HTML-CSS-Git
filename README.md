@@ -8,7 +8,7 @@ View deployed site [here.](https://tugwellchristi.github.io/Ch-1-HTML-CSS-Git/)
 
 ## Screenshots from Deployed Site
 Top section of deployed page. 
-![Top_Section](https://github.com/tugwellchristi/Ch-1-HTML-CSS-Git/assets/90078824/82b04b92-a0eb-4bb8-82e7-8942c5b28fbb)
+![Top_Section]([https://github.com/tugwellchristi/Ch-1-HTML-CSS-Git/assets/90078824/82b04b92-a0eb-4bb8-82e7-8942c5b28fbb](https://tugwellchristi.github.io/Horiseon-Website-Update/))
 
 Content section of deployed page. 
 ![Content_Section](https://github.com/tugwellchristi/Ch-1-HTML-CSS-Git/assets/90078824/63a1d51a-a99c-4a22-b90e-c82434f4acc8)
